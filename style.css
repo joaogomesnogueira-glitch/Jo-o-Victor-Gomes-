@@ -1,3 +1,18 @@
 body{
     background-color:aqua;
 }
+
+header{
+    background-color: grey;
+    height: 80px;
+    margin-left: -30px;
+    margin-left: -30px;
+    margin-right:-30px;
+    margin-top:-20px;
+
+
+}
+
+heander ul{ 
+    list-style: none;
+
